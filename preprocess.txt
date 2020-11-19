@@ -1,0 +1,1 @@
+import sys class TEST: def init(): TEST.a = 12.5768 TEST.b = 2233 int a if a <<=2 def main(): test = TEST() if test.a > 10: print(test.a) else: print(test.b) for i in range(0, 10): test.a += test.b return @abc string = "123 qwe" __abc = 10 

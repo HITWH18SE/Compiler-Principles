@@ -1,0 +1,34 @@
+int main(int a, int b, int c){
+    int d;
+    a = 1;
+    if (a <= b){
+        a = b;
+    }
+    else{
+        while (a > b){
+            a = -(a + 1) * b;
+        }
+    }
+
+}
+
+/* This is
+multi-line
+note
+*/
+
+float test(float e){
+    a = c * (b * (a + 1));
+    if ((a + 3 < 2) || (a - b > 3)){
+        a = b;
+    }
+}
+
+/* error
+
+int main(){
+    int a;
+    a = a + 1.2;
+}
+
+*/
