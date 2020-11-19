@@ -1,5 +1,5 @@
 # Compiler-Principles
- An Implement for Compiler-Principles' Labs
+ An Python Implement for Compiler-Principles' Labs. 
 - the lab contains three parts:
 1. Lexical Analysis
 2. Syntactic Analysis
