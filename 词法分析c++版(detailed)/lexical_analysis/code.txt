@@ -1,0 +1,6 @@
+double test(double x){
+    int sb;
+    x = x + x;
+    //hello kitty!
+}
+
